@@ -210,7 +210,7 @@ body {
 /**
  * YAGS link
  **/
-a#yags-link {
+/* a#yags-link {
   color: var(--color-primary-fg);
   position: fixed;
   bottom: var(--space-small);
@@ -222,3 +222,4 @@ a#yags-link:focus-visible {
   color: var(--color-fg-base);
   text-decoration: underline;
 }
+ */
